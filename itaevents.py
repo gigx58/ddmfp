@@ -13,8 +13,8 @@ import re
 from urllib.parse import quote_plus  # Add this import
 
 
-MFPLINK = ""     # non mettere lo / finale al link
-MFPPSW = ""
+MFPLINK = "https://gigx58-mazztvomg.hf.space"     # non mettere lo / finale al link
+MFPPSW = "58"
 
 
 # Constants
